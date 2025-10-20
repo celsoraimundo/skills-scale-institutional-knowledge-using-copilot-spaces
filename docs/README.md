@@ -16,28 +16,28 @@ The following documents provide detailed guidance for each phase of the OctoAcme
 
 ### Core Process Documents
 
-1. **[Project Management Overview](octoacme-project-management-overview.md)**  
+1. **[Project Management Overview](octoacme-project-management-overview.md)**
    High-level introduction to OctoAcme's project management principles, core roles, key artifacts, lifecycle phases, and communication cadence. Start here for a quick understanding of our approach.
 
-2. **[Project Initiation](octoacme-project-initiation.md)**  
+2. **[Project Initiation](octoacme-project-initiation.md)**
    Guidelines for validating and authorizing new work, including creating project one-pagers, identifying stakeholders, defining success criteria, and making go/no-go decisions.
 
-3. **[Project Planning](octoacme-project-planning.md)**  
+3. **[Project Planning](octoacme-project-planning.md)**
    Instructions for turning approved initiatives into actionable plans, including backlog creation, sprint planning, estimation, dependency management, and release planning.
 
-4. **[Execution and Tracking](octoacme-execution-and-tracking.md)**  
+4. **[Execution and Tracking](octoacme-execution-and-tracking.md)**
    Day-to-day execution guidance covering team rhythm, workflows, quality standards, reporting metrics, and blocker escalation processes.
 
-5. **[Risk Management and Communication](octoacme-risks-and-communication.md)**  
+5. **[Risk Management and Communication](octoacme-risks-and-communication.md)**
    Frameworks for identifying, assessing, and mitigating risks, plus stakeholder communication templates and escalation paths.
 
-6. **[Release and Deployment](octoacme-release-and-deployment.md)**  
+6. **[Release and Deployment](octoacme-release-and-deployment.md)**
    Standards for releasing features to production, including pre-release requirements, deployment checklists, rollback procedures, and release notes templates.
 
-7. **[Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)**  
+7. **[Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)**
    Guidance for capturing learnings and converting them into actionable improvements through structured retrospectives and continuous improvement culture.
 
-8. **[Roles and Personas](octoacme-roles-and-personas.md)**  
+8. **[Roles and Personas](octoacme-roles-and-personas.md)**
    Detailed definitions of all project roles (Developers, Product Managers, Project Managers, Release Manager, UX Designer, Support Lead, Security Lead, Data Analyst) with responsibilities, goals, communication patterns, and cross-role interactions.
 
 ## Getting Started
