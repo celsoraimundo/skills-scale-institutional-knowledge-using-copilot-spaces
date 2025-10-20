@@ -28,6 +28,14 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
 - Proposed team / roles:
+  - Project Manager
+  - Product Manager
+  - Developers (number and specializations)
+  - Release Manager (if deployment is complex)
+  - UX Designer (if user-facing features)
+  - Support Lead (if customer-impacting)
+  - Security Lead (if security/compliance requirements)
+  - Data Analyst (if metrics/analytics needed)
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
@@ -35,6 +43,10 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Identify and confirm availability of required roles (PM, PdM, Dev, UX, Security, etc.)
+- [ ] **Security Lead** reviews for security/compliance requirements
+- [ ] **Data Analyst** consulted on metrics and instrumentation needs
+- [ ] **Support Lead** consulted if customer-facing changes expected
 
 ## Decision Gate
 Move to planning when:
